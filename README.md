@@ -9,6 +9,7 @@
 - **Bases de Datos:** PostgreSQL
 - **Frameworks & Herramientas:**
   - Flutter
+  - Spring
   - Maven
   - Git & GitHub
 - **Cloud:** AWS (S3 Buckets, IAM, EC2)
